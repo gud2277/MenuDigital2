@@ -1,0 +1,33 @@
+body{
+     background-image: url(./img/burger.jpg);     
+    background-size:400px;
+}
+
+#container{
+    background-color: rgba(253, 254, 254,0.5);
+    text-align: center;    
+    width: 350px;
+    
+}
+
+#logo{
+    width: 200px;
+    
+}
+
+.descripcion{
+    color: rgb(179, 117, 4)
+
+}
+
+#tabla{
+    background-color: rgba(253, 254, 254,0.5);
+    font-weight: bolder;
+    width: 325px;
+    
+}
+
+#prueba{
+    padding-right: 20px;
+
+}
